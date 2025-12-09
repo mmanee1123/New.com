@@ -20,7 +20,7 @@
     {
         "device_id": "761a24ec19891871",
         "key": "mykey",
-        "expirydate": "15-06-2025",
-        "Allowoffline": true
+        "expirydate": "15-06-2050",
+        "Allowoffline": false
     }
 ]
