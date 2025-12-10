@@ -22,5 +22,11 @@
         "key": "mykey",
         "expirydate": "15-06-2050",
         "Allowoffline": false
+    },
+    {
+        "device_id": "eb49951546927538",
+        "key": "700",
+        "expirydate": "31-12-2025",
+        "Allowoffline": false
     }
 ]
